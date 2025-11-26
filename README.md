@@ -1,14 +1,14 @@
 # 👋 Olá, eu sou Mielny Brasilino!
 
-🎓 Estudante de Ciência de Dados – 2º semestre  
+🎓 Estudante de Ciência de Dados – 4º semestre  
 📍 Brasil - São Paulo
 💡 Explorando Python, Estatística e Análise de Dados  
 
 ---
 
 ### 🛠️ Habilidades em desenvolvimento:
-- Python e Jupyter Notebook
-- Pandas, NumPy, Matplotlib e Seaborn
+- Python, C++, Java
+- Pandas, NumPy
 - Estatística Descritiva
 - Git e GitHub
 
