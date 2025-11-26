@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Mielny Brasilino!
+# 👋 Olá, eu sou Mileny Brasilino!
 
 🎓 Estudante de Ciência de Dados – 4º semestre  
 📍 Brasil - São Paulo
