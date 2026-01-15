@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou Mileny Brasilino!
+#Mileny Brasilino!
 
-🎓 Estudante de Ciência de Dados – 4º semestre  
+🎓Estudante de Ciência de Dados – 4º semestre  
 📍 Brasil - São Paulo
 💡 Explorando Python, Estatística e Análise de Dados  
 
