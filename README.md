@@ -8,9 +8,9 @@
 
 ### 🛠️ Habilidades em desenvolvimento:
 - Python, C++, Java
-- Pandas, NumPy
+- Pandas
 - Estatística Descritiva
-- Git e GitHub
+- GitHub
 
 ---
 
